@@ -18,7 +18,7 @@ usage: fetch-out-bw.rb [options]
 
 ```
 
-Where `--gateways` specifies the gateways to fetch:
+Where `--gateways` specifies a yaml file which descibes the gateways to fetch:
 
 ```
 gateways:
